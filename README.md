@@ -4,7 +4,9 @@ A simple student registration application using JavaFx and MySQL database
 To properly setup this application:
 
 -> create a new unique mysql database in your local computer 
-for example if your database name is goint to be "JavaFxCrud" write the following sql query: create database JavaFxCrud;
+for example if your database name is goint to be "JavaFxCrud" write the following sql query: 
+create database JavaFxCrud; 
+use JavaFxCrud;
 
 -> run the sql file in this repository using the source command
 source filepath to the StudentCrud.sql file
