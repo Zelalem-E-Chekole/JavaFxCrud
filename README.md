@@ -9,7 +9,7 @@ for example if your database name is goint to be "JavaFxCrud" write the followin
 -> run the sql file in this repository using the source command
 source filepath to the StudentCrud.sql file
 
--> In the FXMLController.java file change to username and password to match that of your mysql database and when you set up the Connection maka sure 
+-> In the FXMLController.java file change the username and password to match that of your mysql database and when you set up the Connection maka sure 
 the path to the database including the host is correct
 
 
