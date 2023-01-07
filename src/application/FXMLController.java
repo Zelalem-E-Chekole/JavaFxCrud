@@ -210,7 +210,7 @@ public class FXMLController implements Initializable{
 
 	    }
 	    String username = "root";
-		String password = "eh10r&4t";
+		String password = "database-password";
 	    Connection con;
 	    PreparedStatement pst;
 	    int myIndex;
